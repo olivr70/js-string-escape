@@ -1,4 +1,1 @@
-declare function jsStringEscape(x:string):string
-
-
-export = jsStringEscape
+export default function jsStringEscape(x:string):string
