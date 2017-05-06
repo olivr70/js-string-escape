@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/joliss/js-string-escape"
   },
+  "typings": "./index.d.ts",
   "keywords": [
     "string",
     "escape",
